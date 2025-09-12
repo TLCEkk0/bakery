@@ -1,0 +1,68 @@
+export const recipesSweet = [
+  
+  {
+    id: "r1",
+    name: "ขนมปังเนยสด",
+    category: "เบเกอรี่",
+    ingredients: [
+      { name: "แป้งอเนกประสงค์ ", amount: 60, unit: "กรัม" },
+      { name: "น้ำตาลไอซิ่ง ", amount: 130, unit: "กรัม" },
+      { name: "เนยเค็ม ", amount: 150, unit: "กรัม" },
+      { name: "เกลือ ", amount: 3, unit: "กรัม" },
+      { name: "ไข่แดง(เบอร์2) ", amount: 1, unit: "ฟอง" },
+      { name: "นมข้นหวาน ", amount: 60, unit: "กรัม" },
+      { name: "นมผง ", amount: 40, unit: "กรัม" },
+      { name: "ผงโกโก้ ", amount: 20, unit: "กรัม" },
+      { name: "ผงฟู ", amount: 2, unit: "กรัม" },
+      { name: "นมกลิ่นวนิลาบัตเตอร์ ", amount: 1, unit: "ช้อนชา" },
+    ],
+  },
+
+    {
+    id: "r2",
+    name: "บราวนี่โกโก้ (Cocoa Brownie)",
+    category: "เบเกอรี่",
+    ingredients: [
+      { name: "แป้งอเนกประสงค์ ", amount: 100, unit: "กรัม" },
+      { name: "น้ำตาล ", amount: 280, unit: "กรัม" },
+      { name: "เนย ", amount: 160, unit: "กรัม" },
+      { name: "เกลือ ", amount: 1, unit: "กรัม" },
+      { name: "ไข่แดง(เบอร์2) ", amount: 3, unit: "ฟอง" },
+      { name: "ผงโกโก้ ", amount: 65, unit: "กรัม" },
+      { name: "ผงฟู ", amount: 2, unit: "กรัม" },
+      { name: "นมกลิ่นวนิลาบัตเตอร์ ", amount: 1, unit: "ช้อนชา" },
+    ],
+  },
+
+  {
+    id: "r3",
+    name: "เค้กช็อกโกแลตหน้านิ่ม",
+    category: "เบเกอรี่",
+    ingredients: [
+      { name: "แป้งเค้ก ", amount: 65, unit: "กรัม" },
+      { name: "น้ำตาล ", amount: 60, unit: "กรัม" },
+      { name: "น้ำมัน ", amount: 50, unit: "กรัม" },
+      { name: "น้ำเปล่า ", amount: 40, unit: "กรัม" },
+      { name: "เกลือ ", amount: 1/8, unit: "ช้อนชา" },
+      { name: "ไข่แดง(เบอร์2) ", amount: 2, unit: "ฟอง" },
+      { name: "ผงโกโก้ ", amount: 20, unit: "กรัม" },
+      { name: "นมข้นจืด ", amount: 20, unit: "กรัม" },
+      { name: "เบคกิ้งโซดา ", amount: 1/8, unit: "กรัม" },
+      { name: "น้ำมะนาว ", amount: 1/2, unit: "ช้อนชา" },
+      { name: "นมกลิ่นวนิลาบัตเตอร์ ", amount: 1/2, unit: "ช้อนชา" },
+    ],
+    ingredients2: [
+      { name: "แป้งเค้ก ", amount: 65, unit: "กรัม" },
+      { name: "น้ำตาล ", amount: 60, unit: "กรัม" },
+      { name: "น้ำมัน ", amount: 50, unit: "กรัม" },
+      { name: "น้ำเปล่า ", amount: 40, unit: "กรัม" },
+      { name: "เกลือ ", amount: 1/8, unit: "ช้อนชา" },
+      { name: "ไข่แดง(เบอร์2) ", amount: 2, unit: "ฟอง" },
+      { name: "ผงโกโก้ ", amount: 20, unit: "กรัม" },
+      { name: "นมข้นจืด ", amount: 20, unit: "กรัม" },
+      { name: "เบคกิ้งโซดา ", amount: 1/8, unit: "กรัม" },
+      { name: "น้ำมะนาว ", amount: 1/2, unit: "ช้อนชา" },
+      { name: "นมกลิ่นวนิลาบัตเตอร์ ", amount: 1/2, unit: "ช้อนชา" },
+    ],
+  },
+];
