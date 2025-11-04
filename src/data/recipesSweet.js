@@ -18,7 +18,7 @@ export const recipesSweet = [
     ],
   },
 
-    {
+  {
     id: "r2",
     name: "บราวนี่โกโก้ (Cocoa Brownie)",
     category: "เบเกอรี่",
@@ -51,18 +51,18 @@ export const recipesSweet = [
       { name: "น้ำมะนาว ", amount: 1/2, unit: "ช้อนชา" },
       { name: "นมกลิ่นวนิลาบัตเตอร์ ", amount: 1/2, unit: "ช้อนชา" },
     ],
-    ingredients2: [
-      { name: "แป้งเค้ก ", amount: 65, unit: "กรัม" },
-      { name: "น้ำตาล ", amount: 60, unit: "กรัม" },
-      { name: "น้ำมัน ", amount: 50, unit: "กรัม" },
-      { name: "น้ำเปล่า ", amount: 40, unit: "กรัม" },
-      { name: "เกลือ ", amount: 1/8, unit: "ช้อนชา" },
-      { name: "ไข่แดง(เบอร์2) ", amount: 2, unit: "ฟอง" },
-      { name: "ผงโกโก้ ", amount: 20, unit: "กรัม" },
-      { name: "นมข้นจืด ", amount: 20, unit: "กรัม" },
-      { name: "เบคกิ้งโซดา ", amount: 1/8, unit: "กรัม" },
-      { name: "น้ำมะนาว ", amount: 1/2, unit: "ช้อนชา" },
-      { name: "นมกลิ่นวนิลาบัตเตอร์ ", amount: 1/2, unit: "ช้อนชา" },
-    ],
+    // ingredients2: [
+    //   { name: "แป้งเค้ก ", amount: 65, unit: "กรัม" },
+    //   { name: "น้ำตาล ", amount: 60, unit: "กรัม" },
+    //   { name: "น้ำมัน ", amount: 50, unit: "กรัม" },
+    //   { name: "น้ำเปล่า ", amount: 40, unit: "กรัม" },
+    //   { name: "เกลือ ", amount: 1/8, unit: "ช้อนชา" },
+    //   { name: "ไข่แดง(เบอร์2) ", amount: 2, unit: "ฟอง" },
+    //   { name: "ผงโกโก้ ", amount: 20, unit: "กรัม" },
+    //   { name: "นมข้นจืด ", amount: 20, unit: "กรัม" },
+    //   { name: "เบคกิ้งโซดา ", amount: 1/8, unit: "กรัม" },
+    //   { name: "น้ำมะนาว ", amount: 1/2, unit: "ช้อนชา" },
+    //   { name: "นมกลิ่นวนิลาบัตเตอร์ ", amount: 1/2, unit: "ช้อนชา" },
+    // ],
   },
 ];
