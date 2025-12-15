@@ -65,4 +65,19 @@ export const recipesSweet = [
     //   { name: "นมกลิ่นวนิลาบัตเตอร์ ", amount: 1/2, unit: "ช้อนชา" },
     // ],
   },
+  {
+    id: "r4",
+    name: "คุกกี้เนยสด (Cocoa Brownie)",
+    category: "เบเกอรี่",
+    ingredients: [
+      { name: "แป้งเค้กบัวแดง ", amount: 400, unit: "กรัม" },
+      { name: "ผงฟู ", amount: 6, unit: "กรัม" },
+      { name: "น้ำตาลไอซิ่ง ", amount: 180, unit: "กรัม" },
+      { name: "เนยสด ", amount: 300, unit: "กรัม" },
+      { name: "เกลือ ", amount: 2, unit: "กรัม" },
+      { name: "ไข่ไก่ ", amount: 1, unit: "ฟอง" },
+      { name: "นมสดรสจืด ", amount: 27, unit: "กรัม" },
+      { name: "นมกลิ่นวนิลาบัตเตอร์ ", amount: 1, unit: "ช้อนชา" },
+    ],
+  },
 ];

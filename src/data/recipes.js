@@ -16,4 +16,18 @@ export const recipes = [
       { name: "น้ำตาลทราย", amount: 1/2, unit: "ชช" },
     ],
   },
+
+    {
+    id: "r2",
+    name: "ปังอบเนยกระเทียม",
+    category: "อาหารคาว",
+    ingredients: [
+      { name: "เนยสด", amount: 250, unit: "กรัม" },
+      { name: "เกลือ", amount: 1/3, unit: "ชช" },
+      { name: "กระเทียมสดสับละเอียด", amount: 25, unit: "กรัม" },
+      { name: "ผงกระเทียม", amount: 1, unit: "ชช" },
+      { name: "ออริกาโน่แห้ง", amount: 2, unit: "กรัม" },
+      { name: "พาร์สลีย์แห้ง", amount: 1, unit: "กรัม" },
+    ],
+  },
 ];
