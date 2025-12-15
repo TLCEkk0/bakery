@@ -64,6 +64,25 @@ export default function RecipeDetail() {
           </div>
 
         </div>
+
+        {/* Steps */}
+        <div className="bg-yellow-100 p-6 rounded-xl shadow-md mt-6">
+          <h3 className="text-2xl font-bold text-gray-800 mb-4 text-center">
+            วิธีทำ
+          </h3>
+
+          <ol className="list-decimal list-inside space-y-3">
+            {recipeSweet.steps?.map((step, index) => (
+              <li
+                key={index}
+                className="bg-white p-4 rounded-lg border border-gray-200 shadow"
+              >
+                {step}
+              </li>
+            ))}
+          </ol>
+        </div>
+        
       </div>
     </div>
   );
