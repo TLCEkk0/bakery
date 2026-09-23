@@ -110,11 +110,7 @@ export const recipesSweet = [
     ingredients: [
       { name: "แป้งสาลีอเนกประสงค์ ", amount: 120, unit: "กรัม" },
       { name: "ข้าวโอ๊ต (ปั่นหรือสับหยาบ) ", amount: 80, unit: "กรัม" },
-<<<<<<< HEAD 
       { name: "เนยละลายหรือน้ำมันมะกอก", amount: 60, unit: "กรัม" },
-=======
-      { name: "เนยละลาย ", amount: 60, unit: "กรัม" },
->>>>>>> 3efd8ab2973ed14057917904fdc07e428eaa401d
       { name: "น้ำผึ้ง ", amount: 40, unit: "กรัม" },
       { name: "ผงโกโก้ (100%)", amount: 20, unit: "กรัม" },
       { name: "ไข่ขาว ", amount: 1, unit: "ฟอง" },
